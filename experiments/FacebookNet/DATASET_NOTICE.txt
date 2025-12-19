@@ -1,0 +1,13 @@
+DATASET NOTICE (FacebookNet)
+
+The files friendship_clean.csv and group_clean.csv are cleaned, processed versions derived from the SocioPatterns high school dataset (Marseilles, France, December 2013) described in:
+
+Mastrandrea, R., Fournet, J., Barrat, A. (2015).
+"Contact Patterns in a High School: A Comparison between Data Collected Using Wearable Sensors, Contact Diaries and Friendship Surveys."
+PLOS ONE 10(9): e0136497. https://doi.org/10.1371/journal.pone.0136497
+
+The SocioPatterns datasets are distributed under a Creative Commons Attribution-NonCommercial-ShareAlike licence (CC BY-NC-SA 3.0):
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This repository does not include the original raw files. It includes only the cleaned, processed CSVs listed above.
+Reuse and redistribution of these derived files should comply with the original dataset licence terms, including attribution, non-commercial use, and share-alike requirements.
